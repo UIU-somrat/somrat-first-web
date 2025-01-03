@@ -1,6 +1,8 @@
 div{
     color: blueviolet;
     background-color: rgba(165, 42, 42, 0.221);
-    margin: 20px 50px;
+    margin: 20%;
     text-align: left;
+    padding-bottom: 30px;
+    border-image: aqua solid ;
 }
